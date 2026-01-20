@@ -26,9 +26,6 @@ ou acessar o projeto online, caso esteja utilizando **GitHub Pages**.
 - [x] Código organizado  
 - [x] Projeto publicado no GitHub  
 
-### 👤 Autor
-Leonardo  
-
 ---
 
 ## 🇺🇸 English
@@ -56,6 +53,3 @@ or access the project online if you are using **GitHub Pages**.
 - [x] Basic website using Bootstrap 4  
 - [x] Organized code  
 - [x] Project published on GitHub  
-
-### 👤 Author
-Leonardo  
